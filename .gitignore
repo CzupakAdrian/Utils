@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/x64/Debug
+/.vs/Utils
+/Utils.ifc
+/Utils-NotNull.ifc
+/Utils-Extensions.ifc
+/Utils-Concepts.ifc
+/Utils-ClassFactory.ifc
